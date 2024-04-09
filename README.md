@@ -4,8 +4,6 @@
 
 此專題運用XAMPP軟體及MySQL來架設伺服器，故檔案放置資料夾為htdocs，測試資料在sql檔，連結資料庫的詳細資料請看boundless_connect.php。
 
-**免責聲明：本專題僅作資展國際期中專題發表之用，不得用於商業用途，若您的權利遭受侵害，敬請告知。**
-
 ##
 
 本人負責的功能為優惠券(coupon)的CRUD功能。
@@ -17,3 +15,5 @@
 優惠券部分資料不讓使用者變更，同時在編輯頁中可以刪除優惠券。
 
 ![image](https://github.com/Mstarcra/boundless_back_end/blob/main/sampleimg.png)
+
+**免責聲明：本專題僅作資展國際期中專題發表之用，不得用於商業用途，若您的權利遭受侵害，敬請告知。**
